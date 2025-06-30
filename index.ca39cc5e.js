@@ -8386,7 +8386,7 @@ class CollabVMCapabilities {
 }
 
 },{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"ebWHc":[function(require,module,exports) {
-module.exports = JSON.parse('{"SiteNameOverride":null,"WelcomeModalTitleOverride":null,"WelcomeModalBodyOverride":null,"WelcomeModalLocalStorageKey":"no-welcome-modal","ChatSound":"//computernewb.com/collab-vm/notify.ogg","ServerAddresses":["wss://127.0.0.1:8080/gvm1"],"ServerAddressesListURI":null,"NSFWVMs":["vm0b0t"],"RawMessages":{"VMTitles":true,"Messages":true},"Auth":{"Enabled":false,"APIEndpoint":"http://192.168.1.5:8080"}}');
+module.exports = JSON.parse('{"SiteNameOverride":null,"WelcomeModalTitleOverride":null,"WelcomeModalBodyOverride":null,"WelcomeModalLocalStorageKey":"no-welcome-modal","ChatSound":"//computernewb.com/collab-vm/notify.ogg","ServerAddresses":["wss://127.0.0.1:6004/gvm1"],"ServerAddressesListURI":null,"NSFWVMs":["vm0b0t"],"RawMessages":{"VMTitles":true,"Messages":true},"Auth":{"Enabled":false,"APIEndpoint":"http://192.168.1.5:8080"}}');
 
 },{}],"gkMLb":[function(require,module,exports) {
 /*!
